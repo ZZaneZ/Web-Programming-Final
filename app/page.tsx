@@ -59,6 +59,13 @@ function HomePage() {
                 >
                     Lesson 7 – Cheapshark
                 </a>
+
+                <a
+                    href="/Project/Main"
+                    className="block p-4 rounded-xl bg-white shadow hover:bg-pink-100 transition text-xl"
+                >
+                    Lesson 8 – Cheapshark
+                </a>
             </div>
         </div>
     );
